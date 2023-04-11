@@ -14,7 +14,7 @@ body{
 }
 
 .imagen_fija{
-  background-image: url(../imagenes/fondo1.jpg);
+  background-image: url(../Frontend/imagenes/fondo1.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -55,7 +55,7 @@ body{
 }
 
 .advice-container{
-  background-image: url(../imagenes/fondo3.jpg);
+  background-image: url(../Frontend/imagenes/fondo3.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
